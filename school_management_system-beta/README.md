@@ -61,18 +61,11 @@
         * [```*```] [```**```] view information
 > ## Developer / Author
 #### 
-> ### Author: John Jayson B. De Leon
-#### 
-> ### Email: savjaylade84@gmail.com
-#### 
-> ### Portfolio: https://savjaylade84.github.io/Jisun.github.io/
-#### 
+> ### Author: Saiprakashreddy
+> 
 > ### Developer / Author Say
     This is a simple school management system using python 3 and python QT5 technology tool also some other tools too. I use this project to help me
     hone my skill, To prove to myself that i'm competence enough to do a software project and make a great software product to the costumer.
-    The knowledge/skill that i use or apply in this self-project come from watching offline youtube video or reading offline documentation or some random developer site.
+    The knowledge/skill that i use or apply in this self-project come from training with Experts from IIS in my OPT period.
     All of my tools that i use in this project are offline, All of them are downloaded in my android phone to my laptop, The reason i do that because i don't have a financial 
     capability to get a stable internet so to other to develope system i rely on many types of resources that is minimal to no internet require.
-
-    I'm open to any opportunity that might come and to a social group that can give great meaningful to other people life.
-
