@@ -1,8 +1,8 @@
 database:
   type: 'mongo' 
   hostname: 'localhost'
-  username: 'savjaylade84'
-  password: 'deleon0927'
+  username: 'saiprakash'
+  password: 'demon123'
 
 database:
   type: 'json'
