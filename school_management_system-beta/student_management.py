@@ -1,11 +1,6 @@
 
 
-""" 
-    Author: John Jayson B. De Leon
-    Email Address: savjaylade84@gmail.com
-    Github: savjaylade
-    Version: 1.10v
-"""
+
 
 from desktop_gui.dashboard import dashboard
 from PyQt5.QtWidgets import QApplication
